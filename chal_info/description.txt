@@ -1,0 +1,3 @@
+We found a piece of alien encryption hardware. We were able to deconstruct it into one of our hardware description languages.
+We need you to figure out what this ciphertext says: 0x3EA8A2CD3A1C7DE221A48BAD307C7DDA
+But we were able to uncover the key: 0xFEDCBA9876543210
